@@ -30,7 +30,7 @@
 
 
 
-#### 96_NLP
+#### 96_NLP [Go](https://github.com/JinJiyeon/ds/blob/master/96_NLP/NLP.md)
 
 - 목적 : 자연어처리에 대한 전반적인 내용을 파악하자
 
@@ -41,7 +41,7 @@
   - [딥러닝을 이용한 자연어 처리 / 뉴욕대 조경현 교수](https://www.boostcourse.org/ai331)
 
 
-#### [97_Interpretable_model](97_Interpretable_Models/Model Agnostic Methods.md)
+#### 97_Interpretable_model [Go](https://github.com/JinJiyeon/ds/tree/master/97_Interpretable_Models)
 
 - 목적 : 모델을 해석하자
 
@@ -53,7 +53,7 @@
 
 
 
-#### 98_Customer_Segmentation
+#### 98_Customer_Segmentation [Go](https://github.com/JinJiyeon/ds/blob/master/98_Customer_Segmentation/98_Customer_Segmentation.md)
 
 - 목적 : 유사한 데이터로 인턴 프로젝트 정리
 
@@ -65,7 +65,7 @@
 
 
 
-#### 99_EDA
+#### 99_EDA [Go](https://github.com/JinJiyeon/ds/blob/master/99_EDA/99_EDA.md)
 
 - 목적 : pandas, matplotlib 등 데이터 분석에 활용되는 라이브러리를 복습한다
 
