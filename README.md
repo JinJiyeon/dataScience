@@ -28,9 +28,28 @@
 
 상세정보 : 주요내용 / 주안점 & 강점 / 어려웠던 점
 
+#### [94_DevOps](94_DevOps)
+
+- 목적 : DevOps를 실습하면서 CS 관련 개념을 익히자
+- 기간 : 2021/06/28 ~ 2021/07/01
+- Ref : SSAFY
 
 
-#### [96_NLP](https://github.com/JinJiyeon/ds/blob/master/96_NLP) 
+
+#### [95_Hadoop](95_Hadoop)
+
+- 목적 : Hadoop의 개념을 이해하고 실습을 해보자
+
+- 기간 : 2021/06/11 ~ 2021/06/
+
+- Ref : 
+
+  - [edureka lecture](https://youtu.be/1vbXmCrkT3Y)
+
+
+
+#### [96_NLP](96_NLP) 
+
 - 목적 : 자연어처리에 대한 전반적인 내용을 파악하자
 
 - 기간 : 2021/06/04 ~ 2021/06/08
@@ -38,9 +57,11 @@
 - Ref : 
 
   - [딥러닝을 이용한 자연어 처리 / 뉴욕대 조경현 교수](https://www.boostcourse.org/ai331)
+  
+    
 
 
-#### [97_Interpretable_model ](https://github.com/JinJiyeon/ds/tree/master/97_Interpretable_Models) 
+#### [97_Interpretable_model ](97_Interpretable_Models) 
 - 목적 : 모델을 해석하자
 
 - 기간 : 2021/05/16 ~ 2021/05/19
@@ -51,7 +72,7 @@
 
 
 
-#### [98_Customer_Segmentation](https://github.com/JinJiyeon/ds/blob/master/98_Customer_Segmentation)  
+#### [98_Customer_Segmentation](98_Customer_Segmentation)  
 
 - 목적 : 유사한 데이터로 인턴 프로젝트 정리
 
@@ -63,7 +84,7 @@
 
 
 
-#### [99_EDA ](https://github.com/JinJiyeon/ds/blob/master/99_EDA) 
+#### [99_EDA ](99_EDA) 
 - 목적 : pandas, matplotlib 등 데이터 분석에 활용되는 라이브러리를 복습한다
 
 - 기간 : 2020/04/26 ~ 2020/04/30
