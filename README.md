@@ -28,11 +28,49 @@
 
 상세정보 : 주요내용 / 주안점 & 강점 / 어려웠던 점
 
+#### [91_BERT](91_BERT)
+
+- 목적 : BERT를 사용해 문장을 임베딩하자
+
+- 기간 : 
+
+- Ref : 
+
+  
+
+#### [92_Recommendation_using_UserLog](92_Recommendation_using_UserLog)
+
+- 목적 : 사용자 로그를 활용해 협업 필터링의 단점을 보완하자
+
+- 기간 :
+
+- Ref : 
+
+  
+
+#### [93_Image_Classifier](93_Image_Classifer)
+
+- 목적 : 딥러닝의 기본 개념을 익히고 pytorch에 익숙해지자
+
+- 기간 : 2021/08/30 ~ 2021/09/02
+
+- Ref :
+
+  ​	CIFAR-10 
+
+  ​	파이썬 딥러닝 파이토치
+
+  
+
 #### [94_DevOps](94_DevOps)
 
 - 목적 : DevOps를 실습하면서 CS 관련 개념을 익히자
+
 - 기간 : 2021/06/28 ~ 2021/07/01
-- Ref : SSAFY
+
+- Ref : 
+
+  ​	SSAFY
 
 
 
