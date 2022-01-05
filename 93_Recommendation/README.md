@@ -14,7 +14,7 @@
 
 ![before](./before.PNG)
 
-- 영화를 추천하는 알고리즘을 만들어보자. [이동]
+- 영화를 추천하는 알고리즘을 만들어보자. [이동](https://github.com/JinJiyeon/pickcorn)
 
   
 
