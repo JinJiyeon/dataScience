@@ -38,11 +38,11 @@
 
   
 
-#### [93_Recommendation_using_UserLog](93_Recommendation_using_UserLog)
+#### [93_Recommendation_using_UserLog](93_Recommendation)
 
-- 목적 : 사용자 로그를 활용해 협업 필터링의 단점을 보완하자
+- 목적 : 추천 알고리즘과 서비스를 연계해보자 + 좌충우돌
 
-- 기간 :
+- 기간 : 2021/05, 2021/09
 
 - Ref : 
 
