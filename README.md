@@ -28,7 +28,7 @@
 
 
 
-#### [93_BERT](93_BERT)
+#### [92_BERT](92_BERT)
 
 - 목적 : BERT를 사용해 문장을 임베딩하자
 
@@ -38,7 +38,7 @@
 
   
 
-#### [94_Recommendation_using_UserLog](94_Recommendation_using_UserLog)
+#### [93_Recommendation_using_UserLog](93_Recommendation_using_UserLog)
 
 - 목적 : 사용자 로그를 활용해 협업 필터링의 단점을 보완하자
 
@@ -48,7 +48,7 @@
 
   
 
-#### [95_Image_Classifier](95_Image_Classifer)
+#### [94_Image_Classifier](94_Image_Classifer)
 
 - 목적 : 딥러닝의 기본 개념을 익히고 pytorch에 익숙해지자
 
@@ -62,7 +62,7 @@
 
   
 
-#### [96_NLP](96_NLP) 
+#### [95_NLP](95_NLP) 
 
 - 목적 : 자연어처리에 대한 전반적인 내용을 파악하자
 
@@ -75,7 +75,7 @@
     
 
 
-#### [97_Interpretable_model ](97_Interpretable_Models) 
+#### [96_Interpretable_model ](96_Interpretable_Models) 
 - 목적 : 모델을 해석하자
 
 - 기간 : 2021/05/16 ~ 2021/05/19
@@ -86,7 +86,7 @@
 
 
 
-#### [98_Customer_Segmentation](98_Customer_Segmentation)  
+#### [97_Customer_Segmentation](97_Customer_Segmentation)  
 
 - 목적 : 유사한 데이터로 인턴 프로젝트 정리
 
@@ -98,7 +98,7 @@
 
 
 
-#### [99_EDA ](99_EDA) 
+#### [98_EDA ](98_EDA) 
 - 목적 : pandas, matplotlib 등 데이터 분석에 활용되는 라이브러리를 복습한다
 
 - 기간 : 2020/04/26 ~ 2020/04/30
