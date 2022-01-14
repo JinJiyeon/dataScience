@@ -48,7 +48,7 @@
 
   
 
-#### [94_Image_Classifier](94_Image_Classifer)
+#### [94_Image_Classifier](94_Image_Classifier)
 
 - 목적 : 딥러닝의 기본 개념을 익히고 pytorch에 익숙해지자
 
